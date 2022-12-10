@@ -28,7 +28,7 @@ I made a PCB at JLCPCB.com, which makes it very easy to make!
 ![github](https://github.com/James-workshop/Magnetic_Polarity_tester/blob/main/img/3DPCB.png "3D PCB")
 
 ### ![github](https://jlcpcb.com/client/svg/nv_logo.svg "JLCPCB") Make hardware development easier, Higher Quality & Lower Cost
-### New registered users offer , **Order here https://jlcpcb.com/HAR**
+### New registered users offer , **[Order here ](https://jlcpcb.com/?from=James)**
 ### You can use my Gerber file to place an order at JLCPCB.com
   
 ## How to make<BR>
